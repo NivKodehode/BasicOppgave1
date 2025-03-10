@@ -7,15 +7,16 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("What is the temperature currently?");
+        int temp = 0;
 
-            int temp = 0;
-            string? userInput = Console.ReadLine();
+        string? userInput = Console.ReadLine();
 
-            if(int.TryParse(userInput, out temp) && temp <= 12)
-            {
-                Console.WriteLine("It is cold outside");
-            }
-        else if (temp >= 25)
+        if(int.TryParse(userInput, out temp) && temp <= 11)
+        {
+            Console.WriteLine("It is cold outside");
+
+        }
+        else if (temp >= 23)
         {
             Console.WriteLine("It is hot outside");
         }
