@@ -1,0 +1,14 @@
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\bin\Debug\net9.0\BasicOppgave1.exe
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\bin\Debug\net9.0\BasicOppgave1.deps.json
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\bin\Debug\net9.0\BasicOppgave1.runtimeconfig.json
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\bin\Debug\net9.0\BasicOppgave1.dll
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\bin\Debug\net9.0\BasicOppgave1.pdb
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.AssemblyInfoInputs.cache
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.AssemblyInfo.cs
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.csproj.CoreCompileInputs.cache
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.dll
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\refint\BasicOppgave1.dll
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.pdb
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\BasicOppgave1.genruntimeconfig.cache
+C:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\obj\Debug\net9.0\ref\BasicOppgave1.dll
