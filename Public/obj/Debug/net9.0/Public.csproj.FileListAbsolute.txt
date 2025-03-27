@@ -1,0 +1,15 @@
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\bin\Debug\net9.0\Public.exe
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\bin\Debug\net9.0\Public.deps.json
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\bin\Debug\net9.0\Public.runtimeconfig.json
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\bin\Debug\net9.0\Public.dll
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\bin\Debug\net9.0\Public.pdb
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.AssemblyInfoInputs.cache
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.AssemblyInfo.cs
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.csproj.CoreCompileInputs.cache
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.sourcelink.json
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.dll
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\refint\Public.dll
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.pdb
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\Public.genruntimeconfig.cache
+c:\Users\nivba\OneDrive\Skrivebord\C #\BasicOppgave1\Public\obj\Debug\net9.0\ref\Public.dll
